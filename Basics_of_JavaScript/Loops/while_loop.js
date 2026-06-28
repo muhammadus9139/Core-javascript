@@ -12,4 +12,4 @@ while (count >= 1) {
     console.log(count);
     count--;
 }
-console.log("Blast off! 🚀");
+console.log("Blast off");
