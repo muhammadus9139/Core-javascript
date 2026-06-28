@@ -1,3 +1,0 @@
-// Hello World Program
-console.log("Hello World!");
-console.log("My name is Usama!");
