@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Normal - HTML parse ruk jata hai -->
+    <!-- <script src="script.js"></script> -->
+
+    <!-- Async - parallel download, parse ruk jata hai execute pe -->
+    <!-- <script async src="script.js"></script> -->
+
+    <!-- Defer - parallel download, HTML parse hone ke baad execute -->
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <h1>Async vs Defer</h1>
+    <!-- 
+        Normal:  download → execute → HTML parse resume
+        Async:   HTML parse + download parallel, execute pe pause
+        Defer:   HTML parse + download parallel, execute at end
+        
+        Best practice: defer use karo
+    -->
+</body>
+</html>
