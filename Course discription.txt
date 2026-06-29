@@ -1,0 +1,10 @@
+01_Basics_of_Programming
+02_Arrays_in_JavaScript
+03_Objects_in_JavaScript
+04_Functions_in_JavaScript
+05_Important_Array_Methods
+06_More_Useful_Things
+07_OOP_Prototypal_Inheritance
+08_How_JavaScript_Works
+09_DOM_Tutorial
+10_Asynchronous_JavaScript
